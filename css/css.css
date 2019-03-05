@@ -1,0 +1,39 @@
+*{margin: 0; padding: 0;}
+
+#father{
+	width: 40%;
+	height: auto;
+	margin: 0 auto;
+	margin-top: 3em;
+}
+
+#micard .card-header{
+	text-align: center;
+	font-size: 1.5em;
+}
+#micard .card-footer{
+	text-align: center;
+}
+
+#micard .card-body #lbl{
+	font-size: 1.3em;
+	width: 100%;
+}
+
+#micard .card-body #nombre{
+	padding: 0.6em;
+}
+
+#master .card-header #foto{
+	width: 50%;
+	height: 8em;
+	background: #623;
+	margin: 0 auto;
+	overflow: hidden;
+}
+#master{
+	margin-top: 3em;
+}
+.col-md-4{
+	margin-top: 2em !important;
+}
